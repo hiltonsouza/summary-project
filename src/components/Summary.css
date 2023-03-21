@@ -1,0 +1,11 @@
+.summary {
+    padding: 2.375rem 2.5rem;
+}
+
+.summary h2 {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    color: #303B59;
+
+    margin-bottom: 1.875rem;
+}

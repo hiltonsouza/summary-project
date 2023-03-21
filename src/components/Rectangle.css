@@ -1,0 +1,40 @@
+.red {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)), #FF5555;
+    color: #FF5555;
+}
+
+.yellow {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)), #FFB21E;
+    color: #FFB21E;
+}
+
+.green {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)), #00bb8f;
+    color: #00bb8f;
+}
+
+.blue {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)), #1125d6;
+    color: #1125d6;
+}
+
+.rectangle {
+    padding: 0.875rem 1rem;
+    margin-bottom: 1rem;
+
+    border-radius: 15px;
+
+    display: flex;
+    align-items: center;
+}
+
+.rectangle img {
+    margin-right: 0.5rem;
+}
+
+.rectangle span {
+    margin-right: auto;
+
+    font-size: 1.125rem;
+    line-height: 1.6875rem;
+}
